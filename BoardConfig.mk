@@ -46,9 +46,6 @@ BOARD_VENDORIMAGE_FILE_SYSTEM_TYPE := ext4
 
 BOARD_ROOT_EXTRA_FOLDERS := efs
 
-BOARD_ROOT_EXTRA_SYMLINKS := \
-    /efs:/factory
-
 # Recovery
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/etc/fstab.exynos7904
 
