@@ -14,7 +14,6 @@ vendor/firmware/setfile_5e9.bin
 -vendor/lib64/libsensorlistener.so
 -vendor/lib64/libuniapi.so
 -vendor/lib64/libuniplugin.so
--vendor/lib64/libvideobeauty_interface.so
 
 # Gatekeeper
 -vendor/lib64/hw/gatekeeper.exynos7904.so
